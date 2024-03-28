@@ -1,0 +1,82 @@
+{
+  "booking": {
+    "e2514ecbc8899bbc": {
+      "1691611595682": {
+        "address": "12,quan 2",
+        "amount": 172,
+        "foods": "- Thuốc Glotadol 325mg Abbott giúp giảm đau, hạ sốt (200 viên) (86 000 VNĐ) - Số lượng: 2",
+        "id": 1691611595682,
+        "name": "Tam",
+        "payment": 1,
+        "phone": "087541123"
+      }
+    }
+  },
+  "food": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/https://cms-prod.s3-sgn09.fptcloud.com/nuoc_collagen5000_dong_trung_ha_thao_biok_2_2b1d5c9bb4.jpg",
+      "description": "Nước Collagen5000 Đông Trùng Hạ Thảo Biok hỗ trợ ngăn ngừa quá trình lão hóa, tăng sức đề kháng (10 chai x 75ml)",
+      "id ": 5,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_09210_5c9ea963ea.jpg",
+      "name": "Nước Collagen",
+      "popular": true,
+      "price": 420,
+      "sale": 0
+    },
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/https://cms-prod.s3-sgn09.fptcloud.com/Dung_dich_xit_Propolis_Ivy_Royal_Care_ho_tro_giam_ho_giam_dom_2_5df7339583.jpg",
+      "description": "Propolis Ivy là sản phẩm được chiết xuất 100% từ thiên nhiên lành tính, hỗ trợ giảm ho, giảm đờm, cải thiện các triệu chứng do viêm họng, viêm phế quản gây ra. Sản phẩm có thể dùng cho người lớn và trẻ em từ 2 tuổi trở lên, an toàn, không gây tác dụng phụ. ",
+      "id": 6,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00345909_xit_hong_propolis_ivy_royal_care_20ml_8905_6271_large_2d8296074d.jpg",
+      "name": "Dung dịch xịt Propolis Ivy Royal Care hỗ trợ giảm ho, giảm đờm (20ml)",
+      "popular": false,
+      "price": 77,
+      "sale": 15
+    },
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/Gel_Qderma_ho_tro_lam_phang_mem_va_mo_tat_ca_cac_loai_seo_1_5fee4e58fd.png",
+      "description": "Gel trị sẹo QDerma là sản phẩm có tác dụng giúp làm phẳng, làm mềm và làm mờ các loại sẹo, hỗ trợ hạn chế tình trạng viêm da, đồng thời còn cân bằng độ ẩm trong da, giúp vùng da bị tổn thương chống lại tia UV từ ánh nắng mặt trời.",
+      "id": 7,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00029788_gel_tri_seo_qderma_20g_9261_630d_large_213edea830.JPG",
+      "name": "Gel Qderma hỗ trợ làm phẳng, mềm và mờ tất cả các loại sẹo (20g)",
+      "popular": true,
+      "price": 275,
+      "sale": 0
+    },
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00005917_phlebodia_4249_63d7_large_bb042faebd.jpg",
+      "description": "Hỗ trợ điều trị các triệu chứng có liên quan đến suy tuần hoàn tĩnh mạch mạn tính (nặng chân, đau, chân khó chịu vào buổi sáng sớm, phù, co cứng chân khi ngủ). Điều trị hỗ trợ chứng dễ vỡ mao mạch. Hỗ trợ điều trị các dấu hiệu chức năng có liên quan đến cơn trĩ cấp.",
+      "id": 8,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00005917_phlebodia_4249_63d7_large_bb042faebd.jpg",
+      "name": "Thuốc Phlebodia 600mg Innothera điều trị trĩ cấp tính, suy tuần hoàn (2 vỉ x 15 viên)",
+      "popular": true,
+      "price": 219,
+      "sale": 5
+    },
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/https://cms-prod.s3-sgn09.fptcloud.com/IMG_0171_0623f23000_a3d609e8a1.jpg",
+      "description": "Giữa thời đại ô nhiễm không khí tăng cao đột biến, dịch bệnh viêm đường hô hấp cấp âm thầm bùng phát từng đợt, việc chủ động bảo vệ bản thân và gia đình luôn là yêu cầu tiên quyết",
+      "id": 9,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_0158_f0aca2eb4f.jpg",
+      "name": "Khẩu trang 3D trẻ em quai vải Swan Mask ngăn giọt bắn, vi khuẩn, khói bụi (10 cái)",
+      "popular": true,
+      "price": 19,
+      "sale": 0
+    },
+    {
+      "banner": "https://cdn.nhathuoclongchau.com.vn/unsafe/636x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033729_glotadol_325mg_glomed_200v_1289_6247_large_ba871e1d77.jpg",
+      "description": "Thuốc Glotadol 325 mg được chỉ định dùng trong các trường hợp sau:  Hạ sốt. Làm giảm các cơn đau từ nhẹ đến vừa như đau đầu và đau cơ thông thường, đau nhức do cảm cúm hay cảm lạnh, đau lưng, đau răng, đau do viêm khớp nhẹ và đau do hành kinh.",
+      "id": 10,
+      "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033729_glotadol_325mg_glomed_200v_6854_6247_large_f16a6152bb.jpg",
+      "name": "Thuốc Glotadol 325mg Abbott giúp giảm đau, hạ sốt (200 viên)",
+      "popular": true,
+      "price": 90,
+      "sale": 5
+    }
+  ]
+}
